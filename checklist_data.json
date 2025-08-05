@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "description": "Set up development environment",
+      "completed": true,
+      "priority": "high"
+    },
+    {
+      "id": 2,
+      "description": "Install dependencies",
+      "completed": false,
+      "priority": "medium"
+    }
+  ]
+}
